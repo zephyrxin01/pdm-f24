@@ -1,6 +1,6 @@
-# pdm-f23-hw0
+# pdm-f24-hw0
 
-NYCU Perception and Decision Making 2023 Fall
+NYCU Perception and Decision Making 2024 Fall
 
 Spec: https://docs.google.com/document/d/1DHr3-iiZNR1UNKYoBC-aF7qijACRdsjz/edit
 
@@ -17,10 +17,10 @@ In this course, we are going to build an indoor navigation system in Habitat ste
 ## Installation
 
 ### Clone the repo
-`git clone git@github.com:HCIS-Lab/pdm-f23.git` to download the repo or create a new fork on you own GitHub account.
+`git clone git@github.com:HCIS-Lab/pdm-f24.git` to download the repo or create a new fork on you own GitHub account.
 
 ```bash
-cd pdm-f23/hw0
+cd pdm-f24/hw0
 # Ensure the latest submodules
 git submodule update --init --recursive
 # Create a conda env
