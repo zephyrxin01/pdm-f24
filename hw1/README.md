@@ -1,4 +1,4 @@
-# pdm-f23-hw1
+# pdm-f24-hw1
 
 NYCU Perception and Decision Making 2023 Fall
 
