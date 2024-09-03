@@ -1,8 +1,0 @@
-# @package _global_
-
-# Top-level configuration for running a headless HITL server in single-user mode.
-
-defaults:
-  - lang_rearrange_humanoid_only.yaml
-  - server.yaml
-  - _self_
