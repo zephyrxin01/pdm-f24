@@ -1,6 +1,6 @@
-[submodule "hw0/habitat-lab"]
-	path = hw0/habitat-lab
-	url = https://github.com/facebookresearch/habitat-lab.git
 [submodule "hw0/habitat-sim"]
 	path = hw0/habitat-sim
 	url = https://github.com/facebookresearch/habitat-sim.git
+[submodule "hw0/habitat-lab"]
+	path = hw0/habitat-lab
+	url = https://github.com/facebookresearch/habitat-lab.git
