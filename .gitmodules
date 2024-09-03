@@ -1,1 +1,4 @@
 
+[submodule "hw0/habitat-sim"]
+	path = hw0/habitat-sim
+	url = https://github.com/facebookresearch/habitat-sim.git
