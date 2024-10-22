@@ -1,5 +1,5 @@
 # pdm-f23-hw3
-NYCU Perception and Decision Making 2023 Fall
+NYCU Perception and Decision Making 2024 Fall
 
 In your original pdm-f23 directory, `git pull` to get new `hw3` directory.
 
