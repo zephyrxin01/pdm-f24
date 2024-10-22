@@ -1,7 +1,7 @@
-# pdm-f23
-NYCU Perception and Decision Making 2023 Fall
+# pdm-f24
+NYCU Perception and Decision Making 2024 Fall
 
-# HW4 Robot Manipulation
+# HW3 Robot Manipulation
 
 ## Installation
 
