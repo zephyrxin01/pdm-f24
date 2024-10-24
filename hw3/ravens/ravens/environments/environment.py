@@ -41,7 +41,7 @@ sys.path.append(import_path)
 print(sys.path)
 
 from ik import your_ik,pybullet_ik
-from hw4_utils.bullet_utils import pose_7d_to_6d, get_pose_from_matrix, get_matrix_from_pose,draw_coordinate,get_dense_waypoints
+from hw3_utils.bullet_utils import pose_7d_to_6d, get_pose_from_matrix, get_matrix_from_pose,draw_coordinate,get_dense_waypoints
 
 PLACE_STEP = 0.0003
 PLACE_DELTA_THRESHOLD = 0.005
