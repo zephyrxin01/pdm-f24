@@ -9,7 +9,7 @@ os.sys.path.insert(0, currentdir)
 import pybullet as p
 from pybullet_robot_envs.envs.ur5_envs.robot_data import ur5
 from robot_data.grippers import Suction
-from hw4_utils.bullet_utils import pose_7d_to_6d, get_pose_from_matrix, get_matrix_from_pose
+from hw3_utils.bullet_utils import pose_7d_to_6d, get_pose_from_matrix, get_matrix_from_pose
 from scipy.spatial.transform import Rotation as R
 import numpy as np
 import math as m
