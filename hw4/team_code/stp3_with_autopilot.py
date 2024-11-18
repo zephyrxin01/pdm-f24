@@ -480,7 +480,7 @@ class Stp3Agent(AutoPilot):
         # Achieve our control using the output of the model
         our_control = get_our_control(output)
         # Combine the control from the autopilot and the control from the model 
-        control = carla.VehicleControl(steer=control_by_autopilot.steer, throttle=our_control.steer, brake=our_control.brake)
+        control = carla.VehicleControl(steer=control_by_autopilot.steer, throttle=our_control.throttle, brake=our_control.brake)
             
         # CARLA will not let the car drive in the initial frames.
         # We set the action to brake so that the filter does not get confused.
