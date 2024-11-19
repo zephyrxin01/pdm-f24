@@ -6,7 +6,7 @@ In your original pdm-f24 directory, `git pull` to get new `hw4` directory.
 ## End-to-end Autonomous Driving Framework
 For this homework, you will need to run the CARLA Simulator. Please ensure your system meets the following requirements:
 - **System Requirements**: We recommend using Ubuntu 18.04 or Ubuntu 20.04.
-- **An adequate GPU**: CARLA aims for realistic simulations, so the server needs at least a 6 GB GPU although we would recommend 8 GB.
+- **An adequate GPU**: CARLA aims for realistic simulations, so the server needs at least 10 GB GPU although we would recommend 12 GB.
 - **Disk space**: CARLA will use about 20 GB of space.
 ## Environment Setup
 1. **Download the CARLA Package:**
