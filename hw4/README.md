@@ -12,9 +12,11 @@ For this homework, you will need to run the CARLA Simulator. Please ensure your 
 1. **Download the CARLA Package:**
     
     Download the **[Ubuntu] CARLA_0.9.15.tar.gz** Package   from the [CARLA GitHub releases page](https://github.com/carla-simulator/carla/releases), and extract it to the `pdm-f24/hw4/CARLA_0.9.15` directory.
-2. **Download the Model Checkpoint:** 
+2. **Download the Model Checkpoint and Testing Data for Coordinate Transformation:** 
     
-    Obtain the model’s checkpoint from [Google Drive](https://drive.google.com/drive/u/2/folders/1EH0KRhf8-4f0X1h3rsOAB8FQmzI85ULn) and place it in `pdm-f24/team_code/checkpoint`.
+    Download the model’s checkpoint and testing data from [Google Drive](https://drive.google.com/drive/folders/1EH0KRhf8-4f0X1h3rsOAB8FQmzI85ULn?usp=sharing).
+
+    Place the checkpoint files in the `pdm-f24/team_code/checkpoint` directory and the testing data in the `pdm-f24/data1` directory.
 3. **Set Up and Activate the Conda Environment:**
 
     ```shell
